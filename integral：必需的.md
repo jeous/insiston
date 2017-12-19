@@ -21,3 +21,5 @@ oriented:导向的
 conceptually:概念上的
 
 spot:发现注意到
+
+overview:总结
